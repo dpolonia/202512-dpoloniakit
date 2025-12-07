@@ -1,4 +1,4 @@
-# 202512-SNSHADB
+# 202512-dpoloniakit
 
 Projeto de integração Multi-Cloud AI (Google Vertex AI & Azure OpenAI) preparado para desenvolvimento escalável.
 
@@ -15,8 +15,8 @@ Projeto de integração Multi-Cloud AI (Google Vertex AI & Azure OpenAI) prepara
 
 ### 1. Clonar e preparar ambiente
 ```bash
-git clone https://github.com/dpoloniateam/202512-SNSHADB.git
-cd 202512-SNSHADB
+git clone https://github.com/dpolonia/202512-dpoloniakit.git
+cd 202512-dpoloniakit
 
 # Criar ambiente virtual
 python3 -m venv venv
