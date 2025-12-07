@@ -1,0 +1,20 @@
+# Core & API
+python-dotenv
+fastapi
+uvicorn
+pydantic
+
+# Google Cloud & Vertex AI
+google-genai
+google-cloud-aiplatform>=1.38.0
+google-cloud-storage
+google-cloud-bigquery
+
+# Microsoft Azure Stack
+azure-identity>=1.15.0
+azure-cosmos>=4.5.0
+azure-ai-inference
+openai>=1.0.0
+
+# Legado/Opcional (caso queira rodar o streamlit antigo)
+streamlit
